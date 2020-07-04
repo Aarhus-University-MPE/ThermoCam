@@ -161,15 +161,6 @@
 			<Item Name="ChannelProbeWindowStagger.vi" Type="VI" URL="/&lt;resource&gt;/ChannelSupport/_ChannelSupport/ChannelProbeWindowStagger.vi"/>
 			<Item Name="Tag-u16[Search,Search error,Connect,Connection complete,Connect Error].lvlib" Type="Library" URL="/&lt;extravilib&gt;/ChannelInstances/Tag-u16[Search,Search error,Connect,Connection complete,Connect Error].lvlib"/>
 			<Item Name="BrowseForFolderG.vi" Type="VI" URL="/C/Users/madsr/Downloads/BrowseForFolderG.vi"/>
-			<Item Name="user32.dll" Type="Document" URL="user32.dll">
-				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
-			</Item>
-			<Item Name="ole32.dll" Type="Document" URL="ole32.dll">
-				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
-			</Item>
-			<Item Name="SHELL32.DLL" Type="Document" URL="SHELL32.DLL">
-				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
-			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="ThermoController" Type="EXE">
